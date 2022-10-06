@@ -1,1 +1,38 @@
-netlify link {0maddox-personal-portfolio.netlify.app}
+netlify link {0maddox-personal-portfolio.netlify.app}This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+
+### MY PERSONAL PORTFOLIO
+Landing page of a portfolio created by nicholas musau
+
+
+
+
+Description
+phase 2 Independent Project personal portfolio
+Setup/Installation Requirements
+Git clone repo on terminal
+run nmp install
+run npm start your site will load on 
+Technologies Used
+The following languages have been used on this project:
+
+HTML
+CSS
+React js
+scss
+
+known Bugs
+So far so good there are no bugs related to this project 
+Support and contact details 
+To make a contribution to the code used or any suggestions you can open a pull request on the repo
+Email:
+nicholasmusau@students.moringaschool.com
+License
+MIT licence Copyright (c) 2022
