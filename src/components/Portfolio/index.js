@@ -19,14 +19,14 @@ const Portfolio = () => {
         }
     });
 
-    useEffect(() => {
-        getPortfolio();
-    }, []);
+    // useEffect(() => {
+    //     getPortfolio();
+    // }, []);
 
-    const getPortfolio = async () => {
-        // const querySnapshot = await getDocs(collection(db, 'portfolio'));
-        // setPortfolio(querySnapshot.docs.map((doc) => doc.data()));
-    }
+    // const getPortfolio = async () => {
+    //     const querySnapshot = await getDocs(collection(db, 'portfolio'));
+    //     setPortfolio(querySnapshot.docs.map((doc) => doc.data()));
+    //}
 
     const renderPortfolio = (portfolio) => {
         return (
